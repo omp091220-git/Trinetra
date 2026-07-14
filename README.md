@@ -34,17 +34,3 @@ Review the data ingestion pipeline mapped to data/gtmdb.csv.
 ## 🔒 Security & Data Compliance
 [!WARNING]
 Classification Notice: Ensure that any specific regional weights, target profiles, or fine-tuned hyperparameters that leverage classified operational telemetry are handled inside air-gapped environments. Never commit active API keys, geospatial military coordinates, or private environment variables to this public/shared tree.
-
-
----
-
-## 📂 Repository Structure
-
-```text
-├── project/
-│   ├── data/
-│   │   └── gtmdb.csv               # Global Terrorism Database (Core Dataset)
-│   ├── app.py                      # Main application entry point (API/UI Dashboard)
-│   └── notebooks/
-│       └── Threat_Modeling.ipynb   # Jupyter Notebook for EDA and model training
-└── README.md                       # Project documentation
