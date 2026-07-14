@@ -1,4 +1,4 @@
-# Military-Intelligence-System
+# Trinetra
 An advanced data-driven intelligence and analytics platform designed to ingest, process, and analyze global threat data. Utilizing machine learning and automated workflows, this system provides strategic insights, predictive threat modeling, and geospatial tracking of global security incidents to assist in tactical decision-making.
 
 ## 🚀 Features
